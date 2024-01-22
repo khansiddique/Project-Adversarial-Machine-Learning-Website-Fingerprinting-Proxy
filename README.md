@@ -17,12 +17,21 @@ Project is processed by following steps shown in Figure 1: Step by step flow dia
 ## Explanation:
 
 **Website Fingerprinting:** Identifying websites based on patterns in data flow.
+
 **Proxy Server:** A middleman between the user and web server, ensuring anonymity.
+
 **Crawling:** Visiting different web pages and collecting data for analysis.
+
 **Capturing Traffic:** Recording network data to understand communication patterns.
+
 **Interpolation:** Estimating values between known data points for a smoother analysis.
+
 **Normalization:** Adjusting data to a standard scale for consistent comparisons.
+
 **Outlier Detection, IQR, Z-Score, Isolation Forest:** Methods to identify abnormal patterns in data.
+
 **Machine Learning Algorithms (SVM, k-NN, Random Forest, Neural Network):** Using AI to predict website visits based on training data.
+
 **Cross Validation:** Ensuring model reliability by testing it on different data subsets.
+
 **Confusion Matrix:** Evaluating the performance of machine learning models.
