@@ -1,0 +1,1000 @@
+algorithm_running
+Removed outliers:  ['1_4_www.google.com', '3_2_www.google.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'1_4_www.google.com': 444192.0, '1_5_www.google.com': 540135.0, '1_8_www.google.com': 443191.0}, {'2_7_www.google.com': 752643.0, '2_8_www.google.com': 763366.0}, {'3_2_www.google.com': 749260.0, '3_9_www.google.com': 772612.0}]
+Number of outliers:  7
+Number of all features:  40
+Mean variance reduced by:  6.76057302932152 %
+Variance Average efficiency: 1 Outlier =  0.9657961470459314 %
+Mean of euclidean distance reduced by:  3.643501994968803 %
+Distance Average efficiency: 1 Outlier =  0.5205002849955432 %
+
+Removed outliers:  ['7_1_www.facebook.com', '8_6_www.facebook.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'7_1_www.facebook.com': 1215075.0}, {'8_1_www.facebook.com': 1797821.0, '8_6_www.facebook.com': 1615170.0}]
+Number of outliers:  3
+Number of all features:  40
+Mean variance reduced by:  12.379237290244555 %
+Variance Average efficiency: 1 Outlier =  4.126412430081518 %
+Mean of euclidean distance reduced by:  4.996477997964432 %
+Distance Average efficiency: 1 Outlier =  1.665492665988144 %
+
+Removed outliers:  ['10_4_www.heise.de', '10_8_www.heise.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'10_4_www.heise.de': 1729444.0, '10_8_www.heise.de': 1736423.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  -3.3070408747716473 %
+Variance Average efficiency: 1 Outlier =  -1.6535204373858237 %
+Mean of euclidean distance reduced by:  -0.7039797824182797 %
+Distance Average efficiency: 1 Outlier =  -0.35198989120913987 %
+
+Removed outliers:  ['14_2_www.b-tu.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'14_2_www.b-tu.de': 1087909.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  3.4469639678892867 %
+Variance Average efficiency: 1 Outlier =  3.4469639678892867 %
+Mean of euclidean distance reduced by:  2.1362010549002948 %
+Distance Average efficiency: 1 Outlier =  2.1362010549002948 %
+
+Removed outliers:  ['20_5_www.amazon.com', '21_10_www.amazon.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'19_5_www.amazon.com': 1037660.0, '19_10_www.amazon.com': 1220995.0}, {'20_5_www.amazon.com': 1400629.0, '20_10_www.amazon.com': 1235086.0}, {'21_5_www.amazon.com': 1111124.0, '21_10_www.amazon.com': 1131719.0}]
+Number of outliers:  6
+Number of all features:  40
+Mean variance reduced by:  34.841165625535055 %
+Variance Average efficiency: 1 Outlier =  5.8068609375891755 %
+Mean of euclidean distance reduced by:  20.80629652865073 %
+Distance Average efficiency: 1 Outlier =  3.467716088108455 %
+
+Removed outliers:  ['25_1_www.dotdash.com', '22_4_www.dotdash.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'22_4_www.dotdash.com': 1523373.0, '22_9_www.dotdash.com': 1526813.0}, {'25_1_www.dotdash.com': 594522.0, '25_6_www.dotdash.com': 550659.0}]
+Number of outliers:  4
+Number of all features:  40
+Mean variance reduced by:  27.414134181598786 %
+Variance Average efficiency: 1 Outlier =  6.853533545399697 %
+Mean of euclidean distance reduced by:  17.13920228189125 %
+Distance Average efficiency: 1 Outlier =  4.284800570472813 %
+
+Removed outliers:  ['27_7_www.ebay.com', '29_1_www.ebay.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'27_3_www.ebay.com': 1160556.0, '27_7_www.ebay.com': 1190247.0}, {'28_3_www.ebay.com': 781106.0}, {'29_1_www.ebay.com': 608215.0}]
+Number of outliers:  4
+Number of all features:  40
+Mean variance reduced by:  10.879512888517198 %
+Variance Average efficiency: 1 Outlier =  2.7198782221292994 %
+Mean of euclidean distance reduced by:  8.93672318847673 %
+Distance Average efficiency: 1 Outlier =  2.2341807971191825 %
+
+Removed outliers:  ['31_7_www.spiegel.de', '31_9_www.spiegel.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'30_1_www.spiegel.de': 8551736.0}, {'31_2_www.spiegel.de': 4348181.0, '31_7_www.spiegel.de': 2854969.0, '31_9_www.spiegel.de': 2930772.0}]
+Number of outliers:  4
+Number of all features:  40
+Mean variance reduced by:  -2.070601476650533 %
+Variance Average efficiency: 1 Outlier =  -0.5176503691626333 %
+Mean of euclidean distance reduced by:  0.9239719121523398 %
+Distance Average efficiency: 1 Outlier =  0.23099297803808494 %
+
+Removed outliers:  ['37_5_www.bahn.com', '36_7_www.bahn.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'34_5_www.bahn.com': 1002168.0}, {'36_2_www.bahn.com': 1095200.0, '36_7_www.bahn.com': 1098789.0}, {'37_1_www.bahn.com': 1144323.0, '37_5_www.bahn.com': 628259.0, '37_6_www.bahn.com': 1100222.0}]
+Number of outliers:  6
+Number of all features:  40
+Mean variance reduced by:  4.598243315824089 %
+Variance Average efficiency: 1 Outlier =  0.7663738859706815 %
+Mean of euclidean distance reduced by:  6.010315623927439 %
+Distance Average efficiency: 1 Outlier =  1.0017192706545732 %
+
+Removed outliers:  ['41_6_en.wikipedia.org', '39_5_en.wikipedia.org']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'39_4_en.wikipedia.org': 287507.0, '39_5_en.wikipedia.org': 301067.0}, {'41_6_en.wikipedia.org': 78706.0}]
+Number of outliers:  3
+Number of all features:  40
+Mean variance reduced by:  8.61877921237318 %
+Variance Average efficiency: 1 Outlier =  2.8729264041243936 %
+Mean of euclidean distance reduced by:  6.196590045526296 %
+Distance Average efficiency: 1 Outlier =  2.065530015175432 %
+
+Removed outliers:  ['45_10_twitter.com', '45_9_twitter.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'42_1_twitter.com': 731649.0}, {'43_5_twitter.com': 833211.0}, {'45_3_twitter.com': 811455.0, '45_4_twitter.com': 305584.0, '45_9_twitter.com': 810995.0, '45_10_twitter.com': 749441.0}]
+Number of outliers:  6
+Number of all features:  40
+Mean variance reduced by:  8.88023961527965 %
+Variance Average efficiency: 1 Outlier =  1.4800399358799419 %
+Mean of euclidean distance reduced by:  5.571547083298823 %
+Distance Average efficiency: 1 Outlier =  0.9285911805498038 %
+
+Removed outliers:  ['46_5_www.instagram.com', '48_1_www.instagram.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'46_2_www.instagram.com': 1133902.0, '46_5_www.instagram.com': 990812.0, '46_7_www.instagram.com': 1129123.0}, {'48_1_www.instagram.com': 1426965.0, '48_4_www.instagram.com': 1390084.0}, {'49_1_www.instagram.com': 1403973.0}]
+Number of outliers:  6
+Number of all features:  40
+Mean variance reduced by:  2.3135823309130656 %
+Variance Average efficiency: 1 Outlier =  0.3855970551521776 %
+Mean of euclidean distance reduced by:  1.6783791068397904 %
+Distance Average efficiency: 1 Outlier =  0.27972985113996507 %
+
+Removed outliers:  ['52_10_www.linkedin.com', '53_6_www.linkedin.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'50_3_www.linkedin.com': 1021242.0, '50_9_www.linkedin.com': 1018376.0}, {'52_10_www.linkedin.com': 1080270.0}, {'53_4_www.linkedin.com': 1009323.0, '53_6_www.linkedin.com': 257067.0}]
+Number of outliers:  5
+Number of all features:  40
+Mean variance reduced by:  -10.936709707026573 %
+Variance Average efficiency: 1 Outlier =  -2.1873419414053146 %
+Mean of euclidean distance reduced by:  -9.514220182755988 %
+Distance Average efficiency: 1 Outlier =  -1.9028440365511976 %
+
+Removed outliers:  ['56_10_www.flickr.com', '56_1_www.flickr.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'55_8_www.flickr.com': 4850876.0}, {'56_1_www.flickr.com': 1998051.0, '56_10_www.flickr.com': 3869169.0}]
+Number of outliers:  3
+Number of all features:  40
+Mean variance reduced by:  -7.50745782269381 %
+Variance Average efficiency: 1 Outlier =  -2.5024859408979365 %
+Mean of euclidean distance reduced by:  -0.613379678625082 %
+Distance Average efficiency: 1 Outlier =  -0.20445989287502733 %
+
+Removed outliers:  ['60_8_www.microsoft.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'60_8_www.microsoft.com': 1941826.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  18.357626981164486 %
+Variance Average efficiency: 1 Outlier =  18.357626981164486 %
+Mean of euclidean distance reduced by:  11.134706876816429 %
+Distance Average efficiency: 1 Outlier =  11.134706876816429 %
+
+Removed outliers:  ['62_10_www.reddit.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'62_10_www.reddit.com': 10042044.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  31.566500179702945 %
+Variance Average efficiency: 1 Outlier =  31.566500179702945 %
+Mean of euclidean distance reduced by:  12.098159329539481 %
+Distance Average efficiency: 1 Outlier =  12.098159329539481 %
+
+Removed outliers:  ['67_3_www.nytimes.com', '68_1_www.nytimes.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'66_9_www.nytimes.com': 20184154.0}, {'67_3_www.nytimes.com': 14206234.0, '67_4_www.nytimes.com': 14521512.0, '67_5_www.nytimes.com': 17278270.0}, {'68_1_www.nytimes.com': 8957542.0}, {'69_3_www.nytimes.com': 7693943.0}]
+Number of outliers:  6
+Number of all features:  40
+Mean variance reduced by:  25.089887988879138 %
+Variance Average efficiency: 1 Outlier =  4.181647998146523 %
+Mean of euclidean distance reduced by:  13.969894739482545 %
+Distance Average efficiency: 1 Outlier =  2.3283157899137574 %
+
+Removed outliers:  ['72_4_www.jimdo.com', '70_8_www.jimdo.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'70_2_www.jimdo.com': 1361084.0, '70_8_www.jimdo.com': 1359758.0}, {'72_4_www.jimdo.com': 928745.0}]
+Number of outliers:  3
+Number of all features:  40
+Mean variance reduced by:  43.43053182612438 %
+Variance Average efficiency: 1 Outlier =  14.47684394204146 %
+Mean of euclidean distance reduced by:  27.15233417811978 %
+Distance Average efficiency: 1 Outlier =  9.05077805937326 %
+
+Removed outliers:  ['75_4_www.blogger.com', '74_10_www.blogger.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'74_10_www.blogger.com': 1826664.0}, {'75_4_www.blogger.com': 1838385.0}, {'76_3_www.blogger.com': 629146.0, '76_6_www.blogger.com': 684834.0}]
+Number of outliers:  4
+Number of all features:  40
+Mean variance reduced by:  26.636991811834758 %
+Variance Average efficiency: 1 Outlier =  6.659247952958689 %
+Mean of euclidean distance reduced by:  14.569561438966419 %
+Distance Average efficiency: 1 Outlier =  3.6423903597416047 %
+
+Removed outliers:  ['79_7_github.com', '80_8_github.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'79_7_github.com': 1302097.0, '79_8_github.com': 1008267.0}, {'80_6_github.com': 4142098.0, '80_8_github.com': 3918982.0}, {'81_2_github.com': 551916.0, '81_3_github.com': 531602.0}]
+Number of outliers:  6
+Number of all features:  40
+Mean variance reduced by:  4.227092828624386 %
+Variance Average efficiency: 1 Outlier =  0.7045154714373977 %
+Mean of euclidean distance reduced by:  1.6529297031204673 %
+Distance Average efficiency: 1 Outlier =  0.27548828385341123 %
+
+Removed outliers:  ['83_2_www.mozilla.org', '83_10_www.mozilla.org']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'82_1_www.mozilla.org': 796530.0}, {'83_2_www.mozilla.org': 1322595.0, '83_3_www.mozilla.org': 1287672.0, '83_10_www.mozilla.org': 1315621.0}]
+Number of outliers:  4
+Number of all features:  40
+Mean variance reduced by:  -5.569126160202888 %
+Variance Average efficiency: 1 Outlier =  -1.392281540050722 %
+Mean of euclidean distance reduced by:  -2.6310558629927066 %
+Distance Average efficiency: 1 Outlier =  -0.6577639657481766 %
+
+Removed outliers:  ['89_4_myspace.com', '89_2_myspace.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'86_5_myspace.com': 6884081.0}, {'89_2_myspace.com': 26079.0, '89_3_myspace.com': 7007411.0, '89_4_myspace.com': 105402.0, '89_7_myspace.com': 16190462.0}]
+Number of outliers:  5
+Number of all features:  40
+Mean variance reduced by:  1.8960794318826892 %
+Variance Average efficiency: 1 Outlier =  0.37921588637653786 %
+Mean of euclidean distance reduced by:  3.627058266039921 %
+Distance Average efficiency: 1 Outlier =  0.7254116532079842 %
+
+Removed outliers:  ['90_6_www.theguardian.com', '93_2_www.theguardian.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'90_6_www.theguardian.com': 2916639.0, '90_7_www.theguardian.com': 1588796.0, '90_10_www.theguardian.com': 1623725.0}, {'91_6_www.theguardian.com': 3893946.0, '91_7_www.theguardian.com': 3467169.0}, {'92_6_www.theguardian.com': 614750.0}, {'93_2_www.theguardian.com': 1234247.0, '93_8_www.theguardian.com': 1358247.0}]
+Number of outliers:  8
+Number of all features:  40
+Mean variance reduced by:  12.345145087373801 %
+Variance Average efficiency: 1 Outlier =  1.5431431359217251 %
+Mean of euclidean distance reduced by:  10.398108325458184 %
+Distance Average efficiency: 1 Outlier =  1.299763540682273 %
+
+Removed outliers:  ['95_5_edition.cnn.com', '97_9_edition.cnn.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'95_5_edition.cnn.com': 539911.0}, {'96_8_edition.cnn.com': 612938.0}, {'97_9_edition.cnn.com': 2185590.0}]
+Number of outliers:  3
+Number of all features:  40
+Mean variance reduced by:  17.222323781539263 %
+Variance Average efficiency: 1 Outlier =  5.740774593846421 %
+Mean of euclidean distance reduced by:  7.916867575143197 %
+Distance Average efficiency: 1 Outlier =  2.6389558583810655 %
+
+Removed outliers:  ['98_10_www.paypal.com', '99_8_www.paypal.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'98_5_www.paypal.com': 777809.0, '98_10_www.paypal.com': 777793.0}, {'99_8_www.paypal.com': 1133807.0}, {'100_10_www.paypal.com': 508014.0}, {'101_6_www.paypal.com': 489950.0}]
+Number of outliers:  5
+Number of all features:  40
+Mean variance reduced by:  25.85856258466973 %
+Variance Average efficiency: 1 Outlier =  5.171712516933946 %
+Mean of euclidean distance reduced by:  14.906819533149523 %
+Distance Average efficiency: 1 Outlier =  2.9813639066299045 %
+
+Removed outliers:  ['105_7_www.huffingtonpost.de', '105_1_www.huffingtonpost.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'105_1_www.huffingtonpost.de': 200015.0, '105_7_www.huffingtonpost.de': 200540.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  57.623948136083726 %
+Variance Average efficiency: 1 Outlier =  28.811974068041863 %
+Mean of euclidean distance reduced by:  28.33153315966741 %
+Distance Average efficiency: 1 Outlier =  14.165766579833704 %
+
+Removed outliers:  ['109_5_www.dropbox.com', '109_2_www.dropbox.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'109_2_www.dropbox.com': 794497.0, '109_5_www.dropbox.com': 2694126.0, '109_7_www.dropbox.com': 744963.0}]
+Number of outliers:  3
+Number of all features:  40
+Mean variance reduced by:  23.884480419754592 %
+Variance Average efficiency: 1 Outlier =  7.96149347325153 %
+Mean of euclidean distance reduced by:  14.872450992379916 %
+Distance Average efficiency: 1 Outlier =  4.957483664126639 %
+
+Removed outliers:  ['110_2_www.xing.com', '112_8_www.xing.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'110_2_www.xing.com': 661540.0, '110_8_www.xing.com': 636621.0}, {'112_8_www.xing.com': 689925.0}]
+Number of outliers:  3
+Number of all features:  40
+Mean variance reduced by:  -5.089026745794448 %
+Variance Average efficiency: 1 Outlier =  -1.6963422485981494 %
+Mean of euclidean distance reduced by:  -0.4618791045050811 %
+Distance Average efficiency: 1 Outlier =  -0.1539597015016937 %
+
+Removed outliers:  ['117_3_www.owasp.org', '115_2_www.owasp.org']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'115_2_www.owasp.org': 638390.0, '115_9_www.owasp.org': 585154.0}, {'116_1_www.owasp.org': 350386.0, '116_10_www.owasp.org': 394847.0}, {'117_3_www.owasp.org': 591968.0}]
+Number of outliers:  5
+Number of all features:  40
+Mean variance reduced by:  6.406341300024875 %
+Variance Average efficiency: 1 Outlier =  1.281268260004975 %
+Mean of euclidean distance reduced by:  4.2290243641148 %
+Distance Average efficiency: 1 Outlier =  0.8458048728229601 %
+
+Removed outliers:  ['121_5_www.skype.com', '119_4_www.skype.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'119_4_www.skype.com': 867515.0, '119_9_www.skype.com': 878161.0}, {'121_5_www.skype.com': 1275597.0}]
+Number of outliers:  3
+Number of all features:  40
+Mean variance reduced by:  20.867319821649566 %
+Variance Average efficiency: 1 Outlier =  6.955773273883189 %
+Mean of euclidean distance reduced by:  9.622962079984624 %
+Distance Average efficiency: 1 Outlier =  3.2076540266615416 %
+
+Removed outliers:  ['125_8_www.springer.com', '125_7_www.springer.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'125_7_www.springer.com': 1636486.0, '125_8_www.springer.com': 933955.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  45.52218237395985 %
+Variance Average efficiency: 1 Outlier =  22.761091186979925 %
+Mean of euclidean distance reduced by:  15.961264484671231 %
+Distance Average efficiency: 1 Outlier =  7.9806322423356155 %
+
+Removed outliers:  ['128_10_www.oracle.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'128_10_www.oracle.com': 2110231.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  22.306010412812388 %
+Variance Average efficiency: 1 Outlier =  22.306010412812388 %
+Mean of euclidean distance reduced by:  10.166534869735909 %
+Distance Average efficiency: 1 Outlier =  10.166534869735909 %
+
+Removed outliers:  ['131_8_www.debian.org', '131_1_www.debian.org']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'129_2_www.debian.org': 27827.0, '129_3_www.debian.org': 10017.0}, {'131_1_www.debian.org': 11690.0, '131_3_www.debian.org': 15627.0, '131_6_www.debian.org': 11097.0, '131_8_www.debian.org': 16648.0}]
+Number of outliers:  6
+Number of all features:  40
+Mean variance reduced by:  -4.279028844611629 %
+Variance Average efficiency: 1 Outlier =  -0.7131714741019382 %
+Mean of euclidean distance reduced by:  -0.10931214684559802 %
+Distance Average efficiency: 1 Outlier =  -0.018218691140933004 %
+
+Removed outliers:  ['136_7_www.android.com', '133_8_www.android.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'133_8_www.android.com': 1864199.0, '133_9_www.android.com': 1738790.0}, {'135_2_www.android.com': 728299.0}, {'136_7_www.android.com': 507562.0}]
+Number of outliers:  4
+Number of all features:  40
+Mean variance reduced by:  38.87300502315516 %
+Variance Average efficiency: 1 Outlier =  9.71825125578879 %
+Mean of euclidean distance reduced by:  16.8209925809163 %
+Distance Average efficiency: 1 Outlier =  4.205248145229075 %
+
+Removed outliers:  ['140_4_www.office.com', '140_9_www.office.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'140_4_www.office.com': 568625.0, '140_9_www.office.com': 637762.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  -9.26149987486357 %
+Variance Average efficiency: 1 Outlier =  -4.630749937431785 %
+Mean of euclidean distance reduced by:  -6.448565400042187 %
+Distance Average efficiency: 1 Outlier =  -3.2242827000210936 %
+
+Removed outliers:  ['142_6_www.alexa.com', '144_7_www.alexa.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'141_3_www.alexa.com': 3102038.0, '141_4_www.alexa.com': 3030722.0, '141_10_www.alexa.com': 3779784.0}, {'142_3_www.alexa.com': 3094639.0, '142_5_www.alexa.com': 3098400.0, '142_6_www.alexa.com': 4011304.0, '142_7_www.alexa.com': 3959554.0}, {'144_7_www.alexa.com': 2428289.0}]
+Number of outliers:  8
+Number of all features:  40
+Mean variance reduced by:  19.84372933411851 %
+Variance Average efficiency: 1 Outlier =  2.480466166764814 %
+Mean of euclidean distance reduced by:  9.331870548982666 %
+Distance Average efficiency: 1 Outlier =  1.1664838186228332 %
+
+Removed outliers:  ['145_3_www.netflix.com', '148_8_www.netflix.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'145_3_www.netflix.com': 2261204.0, '145_10_www.netflix.com': 2290737.0}, {'147_1_www.netflix.com': 2301802.0, '147_5_www.netflix.com': 2577517.0}, {'148_8_www.netflix.com': 493092.0}]
+Number of outliers:  5
+Number of all features:  40
+Mean variance reduced by:  -6.265347265223801 %
+Variance Average efficiency: 1 Outlier =  -1.2530694530447604 %
+Mean of euclidean distance reduced by:  -1.1455925342399018 %
+Distance Average efficiency: 1 Outlier =  -0.22911850684798035 %
+
+Removed outliers:  ['150_5_opensource.org']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'150_5_opensource.org': 338639.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  -2.7012420860832687 %
+Variance Average efficiency: 1 Outlier =  -2.7012420860832687 %
+Mean of euclidean distance reduced by:  -0.6123525145784074 %
+Distance Average efficiency: 1 Outlier =  -0.6123525145784074 %
+
+Removed outliers:  ['154_2_www.icann.org', '155_9_www.icann.org']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'154_2_www.icann.org': 22796.0}, {'155_9_www.icann.org': 29076.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  18.947404741890026 %
+Variance Average efficiency: 1 Outlier =  9.473702370945013 %
+Mean of euclidean distance reduced by:  9.878330437962976 %
+Distance Average efficiency: 1 Outlier =  4.939165218981488 %
+
+Removed outliers:  ['157_6_www.oracle.com', '159_2_www.oracle.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'157_6_www.oracle.com': 1986617.0}, {'158_2_www.oracle.com': 2079105.0}, {'159_2_www.oracle.com': 2081131.0}]
+Number of outliers:  3
+Number of all features:  40
+Mean variance reduced by:  24.104756452042896 %
+Variance Average efficiency: 1 Outlier =  8.034918817347632 %
+Mean of euclidean distance reduced by:  11.44011957512541 %
+Distance Average efficiency: 1 Outlier =  3.81337319170847 %
+
+Removed outliers:  ['164_7_www.snapchat.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'164_7_www.snapchat.com': 186288.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  -5.198426200136806 %
+Variance Average efficiency: 1 Outlier =  -5.198426200136806 %
+Mean of euclidean distance reduced by:  -4.1744198616280475 %
+Distance Average efficiency: 1 Outlier =  -4.1744198616280475 %
+
+Removed outliers:  ['168_1_www.symantec.com', '165_6_www.symantec.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'165_6_www.symantec.com': 2106270.0}, {'168_1_www.symantec.com': 1740786.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  -10.197859549998153 %
+Variance Average efficiency: 1 Outlier =  -5.0989297749990765 %
+Mean of euclidean distance reduced by:  -6.745970649083209 %
+Distance Average efficiency: 1 Outlier =  -3.3729853245416046 %
+
+Removed outliers:  []
+Outliers based on IQR based on final CUMUL_SUM:
+[]
+Number of outliers:  0
+Number of all features:  40
+Mean variance reduced by:  0.0 %
+Variance Average efficiency: 1 Outlier =  0 %
+Mean of euclidean distance reduced by:  0.0 %
+Distance Average efficiency: 1 Outlier =  0 %
+
+Removed outliers:  ['174_9_us.norton.com', '173_10_us.norton.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'173_4_us.norton.com': 2608627.0, '173_10_us.norton.com': 1919221.0}, {'174_9_us.norton.com': 4059906.0, '174_10_us.norton.com': 2881959.0}, {'175_9_us.norton.com': 2700679.0}, {'176_1_us.norton.com': 2345976.0}]
+Number of outliers:  6
+Number of all features:  40
+Mean variance reduced by:  18.89088042526112 %
+Variance Average efficiency: 1 Outlier =  3.1484800708768534 %
+Mean of euclidean distance reduced by:  8.718282281541564 %
+Distance Average efficiency: 1 Outlier =  1.4530470469235939 %
+
+Removed outliers:  []
+Outliers based on IQR based on final CUMUL_SUM:
+[]
+Number of outliers:  0
+Number of all features:  40
+Mean variance reduced by:  0.0 %
+Variance Average efficiency: 1 Outlier =  0 %
+Mean of euclidean distance reduced by:  0.0 %
+Distance Average efficiency: 1 Outlier =  0 %
+
+Removed outliers:  ['183_2_www.microsoft.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'183_2_www.microsoft.com': 1508790.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  -2.8690565181495438 %
+Variance Average efficiency: 1 Outlier =  -2.8690565181495438 %
+Mean of euclidean distance reduced by:  -0.7346523849477662 %
+Distance Average efficiency: 1 Outlier =  -0.7346523849477662 %
+
+Removed outliers:  ['187_4_www.python.org', '185_5_www.python.org']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'185_4_www.python.org': 565786.0, '185_5_www.python.org': 477301.0}, {'186_7_www.python.org': 401084.0}, {'187_4_www.python.org': 882849.0, '187_5_www.python.org': 989649.0}]
+Number of outliers:  5
+Number of all features:  40
+Mean variance reduced by:  8.033130699245117 %
+Variance Average efficiency: 1 Outlier =  1.6066261398490234 %
+Mean of euclidean distance reduced by:  5.0832742705284 %
+Distance Average efficiency: 1 Outlier =  1.01665485410568 %
+
+Removed outliers:  ['199_6_siteorigin.com', '200_7_siteorigin.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'199_6_siteorigin.com': 755798.0, '199_9_siteorigin.com': 788807.0}, {'200_2_siteorigin.com': 1317752.0, '200_7_siteorigin.com': 1208910.0}]
+Number of outliers:  4
+Number of all features:  40
+Mean variance reduced by:  19.93604087595342 %
+Variance Average efficiency: 1 Outlier =  4.984010218988355 %
+Mean of euclidean distance reduced by:  7.81832919368041 %
+Distance Average efficiency: 1 Outlier =  1.9545822984201024 %
+
+Removed outliers:  ['204_9_ewebdevelopment.com', '205_2_ewebdevelopment.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'204_4_ewebdevelopment.com': 660253.0, '204_5_ewebdevelopment.com': 842968.0, '204_9_ewebdevelopment.com': 778076.0}, {'205_1_ewebdevelopment.com': 721893.0, '205_2_ewebdevelopment.com': 528250.0, '205_7_ewebdevelopment.com': 718581.0, '205_9_ewebdevelopment.com': 701462.0}]
+Number of outliers:  7
+Number of all features:  40
+Mean variance reduced by:  3.8550795211127244 %
+Variance Average efficiency: 1 Outlier =  0.5507256458732463 %
+Mean of euclidean distance reduced by:  2.3557007805913717 %
+Distance Average efficiency: 1 Outlier =  0.3365286829416245 %
+
+Removed outliers:  ['206_8_www.justice.gov', '206_10_www.justice.gov']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'206_8_www.justice.gov': 919629.0, '206_10_www.justice.gov': 892172.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  11.660803601190429 %
+Variance Average efficiency: 1 Outlier =  5.830401800595214 %
+Mean of euclidean distance reduced by:  5.788007638336931 %
+Distance Average efficiency: 1 Outlier =  2.8940038191684656 %
+
+Removed outliers:  ['204_5_www.warnerbros.com', '202_7_www.warnerbros.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'202_7_www.warnerbros.com': 2551452.0}, {'204_1_www.warnerbros.com': 2777918.0, '204_5_www.warnerbros.com': 2598882.0}]
+Number of outliers:  3
+Number of all features:  40
+Mean variance reduced by:  56.78201644181252 %
+Variance Average efficiency: 1 Outlier =  18.927338813937507 %
+Mean of euclidean distance reduced by:  21.191620264957393 %
+Distance Average efficiency: 1 Outlier =  7.063873421652464 %
+
+Removed outliers:  ['208_1_java.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'208_1_java.com': 371441.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  1.415563691249228 %
+Variance Average efficiency: 1 Outlier =  1.415563691249228 %
+Mean of euclidean distance reduced by:  1.7231833015311875 %
+Distance Average efficiency: 1 Outlier =  1.7231833015311875 %
+
+Removed outliers:  ['212_3_www.playstation.com', '212_5_www.playstation.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'209_1_www.playstation.com': 9563797.0, '209_7_www.playstation.com': 9612022.0}, {'212_3_www.playstation.com': 33551734.0, '212_5_www.playstation.com': 35455914.0, '212_10_www.playstation.com': 15805220.0}]
+Number of outliers:  5
+Number of all features:  40
+Mean variance reduced by:  15.56096498922906 %
+Variance Average efficiency: 1 Outlier =  3.112192997845812 %
+Mean of euclidean distance reduced by:  12.375283956497933 %
+Distance Average efficiency: 1 Outlier =  2.4750567912995867 %
+
+Removed outliers:  ['217_3_www.iso.org']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'217_3_www.iso.org': 543189.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  -2.1278222585585214 %
+Variance Average efficiency: 1 Outlier =  -2.1278222585585214 %
+Mean of euclidean distance reduced by:  -0.6212547609217124 %
+Distance Average efficiency: 1 Outlier =  -0.6212547609217124 %
+
+Removed outliers:  ['221_9_moodle.org', '218_4_moodle.org']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'218_3_moodle.org': 3229870.0, '218_4_moodle.org': 2001502.0, '218_6_moodle.org': 3223418.0, '218_10_moodle.org': 2013661.0}, {'219_4_moodle.org': 614916.0, '219_7_moodle.org': 1080387.0}, {'221_9_moodle.org': 614002.0}]
+Number of outliers:  7
+Number of all features:  40
+Mean variance reduced by:  27.367679470135485 %
+Variance Average efficiency: 1 Outlier =  3.9096684957336407 %
+Mean of euclidean distance reduced by:  12.932156892198915 %
+Distance Average efficiency: 1 Outlier =  1.847450984599845 %
+
+Removed outliers:  ['223_4_web.de', '224_9_web.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'223_4_web.de': 3109697.0}, {'224_9_web.de': 10693189.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  67.21373077816672 %
+Variance Average efficiency: 1 Outlier =  33.60686538908336 %
+Mean of euclidean distance reduced by:  32.539828684026844 %
+Distance Average efficiency: 1 Outlier =  16.269914342013422 %
+
+Removed outliers:  []
+Outliers based on IQR based on final CUMUL_SUM:
+[]
+Number of outliers:  0
+Number of all features:  40
+Mean variance reduced by:  0.0 %
+Variance Average efficiency: 1 Outlier =  0 %
+Mean of euclidean distance reduced by:  0.0 %
+Distance Average efficiency: 1 Outlier =  0 %
+
+Removed outliers:  ['232_3_www.msn.com', '232_4_www.msn.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'232_3_www.msn.com': 1102706.0, '232_4_www.msn.com': 1230160.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  -8.16611698578776 %
+Variance Average efficiency: 1 Outlier =  -4.08305849289388 %
+Mean of euclidean distance reduced by:  -4.405940180531201 %
+Distance Average efficiency: 1 Outlier =  -2.2029700902656004 %
+
+Removed outliers:  ['237_2_www.unicef.org']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'237_2_www.unicef.org': 2609949.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  -2.7035947848893813 %
+Variance Average efficiency: 1 Outlier =  -2.7035947848893813 %
+Mean of euclidean distance reduced by:  -0.3732656410524209 %
+Distance Average efficiency: 1 Outlier =  -0.3732656410524209 %
+
+Removed outliers:  ['241_8_www.nist.gov', '239_1_www.nist.gov']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'239_1_www.nist.gov': 311945.0, '239_7_www.nist.gov': 336554.0}, {'241_8_www.nist.gov': 354767.0}]
+Number of outliers:  3
+Number of all features:  40
+Mean variance reduced by:  -10.01694585373561 %
+Variance Average efficiency: 1 Outlier =  -3.3389819512452035 %
+Mean of euclidean distance reduced by:  -6.355085076260808 %
+Distance Average efficiency: 1 Outlier =  -2.118361692086936 %
+
+Removed outliers:  ['244_3_www.dmca.com', '244_9_www.dmca.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'242_5_www.dmca.com': 2529758.0}, {'243_5_www.dmca.com': 711298.0}, {'244_3_www.dmca.com': 1278495.0, '244_8_www.dmca.com': 1307383.0, '244_9_www.dmca.com': 903218.0}]
+Number of outliers:  5
+Number of all features:  40
+Mean variance reduced by:  3.6089444659473564 %
+Variance Average efficiency: 1 Outlier =  0.7217888931894713 %
+Mean of euclidean distance reduced by:  1.892373489254607 %
+Distance Average efficiency: 1 Outlier =  0.37847469785092136 %
+
+Removed outliers:  ['249_1_taz.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'249_1_taz.de': 2294582.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  -3.524763189037119 %
+Variance Average efficiency: 1 Outlier =  -3.524763189037119 %
+Mean of euclidean distance reduced by:  -1.2875473691722605 %
+Distance Average efficiency: 1 Outlier =  -1.2875473691722605 %
+
+Removed outliers:  ['251_4_www.faz.net', '252_1_www.faz.net']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'251_2_www.faz.net': 3726254.0, '251_4_www.faz.net': 3682426.0}, {'252_1_www.faz.net': 2919127.0}]
+Number of outliers:  3
+Number of all features:  40
+Mean variance reduced by:  -8.083235636396308 %
+Variance Average efficiency: 1 Outlier =  -2.6944118787987694 %
+Mean of euclidean distance reduced by:  -3.7611332516883875 %
+Distance Average efficiency: 1 Outlier =  -1.2537110838961292 %
+
+Removed outliers:  ['257_8_www.whatsapp.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'257_8_www.whatsapp.com': 1045379.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  -1.7844036524238054 %
+Variance Average efficiency: 1 Outlier =  -1.7844036524238054 %
+Mean of euclidean distance reduced by:  -0.627882246200968 %
+Distance Average efficiency: 1 Outlier =  -0.627882246200968 %
+
+Removed outliers:  ['259_4_www.samsung.com', '259_8_www.samsung.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'259_4_www.samsung.com': 2539942.0, '259_8_www.samsung.com': 2587520.0}, {'261_4_www.samsung.com': 2760972.0}]
+Number of outliers:  3
+Number of all features:  40
+Mean variance reduced by:  10.555232353974107 %
+Variance Average efficiency: 1 Outlier =  3.5184107846580357 %
+Mean of euclidean distance reduced by:  9.501386022845043 %
+Distance Average efficiency: 1 Outlier =  3.167128674281681 %
+
+Removed outliers:  ['264_8_www.kicker.de', '265_10_www.kicker.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'264_8_www.kicker.de': 3820862.0}, {'265_10_www.kicker.de': 3580344.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  18.273695217054435 %
+Variance Average efficiency: 1 Outlier =  9.136847608527217 %
+Mean of euclidean distance reduced by:  7.806013963662657 %
+Distance Average efficiency: 1 Outlier =  3.9030069818313287 %
+
+Removed outliers:  ['269_8_translate.google.de', '267_9_translate.google.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'266_10_translate.google.de': 746966.0}, {'267_9_translate.google.de': 1003904.0, '267_10_translate.google.de': 1222637.0}, {'269_2_translate.google.de': 225169.0, '269_8_translate.google.de': 250864.0}]
+Number of outliers:  5
+Number of all features:  40
+Mean variance reduced by:  5.848614053050816 %
+Variance Average efficiency: 1 Outlier =  1.1697228106101631 %
+Mean of euclidean distance reduced by:  3.8492708313504225 %
+Distance Average efficiency: 1 Outlier =  0.7698541662700845 %
+
+Removed outliers:  ['271_3_www.transfermarkt.de', '271_1_www.transfermarkt.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'270_1_www.transfermarkt.de': 5804108.0, '270_3_www.transfermarkt.de': 5800103.0}, {'271_1_www.transfermarkt.de': 12798303.0, '271_3_www.transfermarkt.de': 8708199.0}]
+Number of outliers:  4
+Number of all features:  40
+Mean variance reduced by:  45.694892792067996 %
+Variance Average efficiency: 1 Outlier =  11.423723198016999 %
+Mean of euclidean distance reduced by:  16.898431135793032 %
+Distance Average efficiency: 1 Outlier =  4.224607783948258 %
+
+Removed outliers:  ['277_3_www.sparkasse.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'277_3_www.sparkasse.de': 1115014.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  2.5674271031352225 %
+Variance Average efficiency: 1 Outlier =  2.5674271031352225 %
+Mean of euclidean distance reduced by:  1.404221699763301 %
+Distance Average efficiency: 1 Outlier =  1.404221699763301 %
+
+Removed outliers:  ['279_10_www.deutsche-bank.de', '280_5_www.deutsche-bank.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'279_3_www.deutsche-bank.de': 708487.0, '279_10_www.deutsche-bank.de': 717774.0}, {'280_5_www.deutsche-bank.de': 349201.0}]
+Number of outliers:  3
+Number of all features:  40
+Mean variance reduced by:  15.141461021365979 %
+Variance Average efficiency: 1 Outlier =  5.047153673788659 %
+Mean of euclidean distance reduced by:  8.308663245319199 %
+Distance Average efficiency: 1 Outlier =  2.7695544151063998 %
+
+Removed outliers:  ['285_2_www.ing-diba.de', '282_10_www.ing-diba.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'282_10_www.ing-diba.de': 914736.0}, {'285_2_www.ing-diba.de': 1041761.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  5.451712019448691 %
+Variance Average efficiency: 1 Outlier =  2.7258560097243456 %
+Mean of euclidean distance reduced by:  3.1956229847642703 %
+Distance Average efficiency: 1 Outlier =  1.5978114923821352 %
+
+Removed outliers:  ['289_10_www.dkb.de', '289_2_www.dkb.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'289_2_www.dkb.de': 2781223.0, '289_10_www.dkb.de': 2783400.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  15.446034365721479 %
+Variance Average efficiency: 1 Outlier =  7.7230171828607395 %
+Mean of euclidean distance reduced by:  8.313538978451223 %
+Distance Average efficiency: 1 Outlier =  4.156769489225612 %
+
+Removed outliers:  ['290_5_www.commerzbank.de', '290_4_www.commerzbank.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'290_4_www.commerzbank.de': 1527786.0, '290_5_www.commerzbank.de': 1294522.0}, {'291_1_www.commerzbank.de': 1698603.0, '291_5_www.commerzbank.de': 1304271.0}, {'292_3_www.commerzbank.de': 698883.0, '292_4_www.commerzbank.de': 845982.0, '292_10_www.commerzbank.de': 957995.0}]
+Number of outliers:  7
+Number of all features:  40
+Mean variance reduced by:  31.449745305619793 %
+Variance Average efficiency: 1 Outlier =  4.492820757945685 %
+Mean of euclidean distance reduced by:  13.579978465086434 %
+Distance Average efficiency: 1 Outlier =  1.9399969235837762 %
+
+Removed outliers:  ['296_1_www.dhl.de', '296_10_www.dhl.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'295_1_www.dhl.de': 954764.0}, {'296_1_www.dhl.de': 599542.0, '296_4_www.dhl.de': 609230.0, '296_10_www.dhl.de': 690354.0}]
+Number of outliers:  4
+Number of all features:  40
+Mean variance reduced by:  -4.495588938024696 %
+Variance Average efficiency: 1 Outlier =  -1.123897234506174 %
+Mean of euclidean distance reduced by:  -1.905861653798168 %
+Distance Average efficiency: 1 Outlier =  -0.476465413449542 %
+
+Removed outliers:  ['298_6_www.wolframalpha.com', '298_4_www.wolframalpha.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'298_4_www.wolframalpha.com': 1639188.0, '298_6_www.wolframalpha.com': 1246491.0}, {'299_4_www.wolframalpha.com': 969446.0, '299_5_www.wolframalpha.com': 4493730.0}, {'300_4_www.wolframalpha.com': 388623.0}]
+Number of outliers:  5
+Number of all features:  40
+Mean variance reduced by:  -9.881536425655561 %
+Variance Average efficiency: 1 Outlier =  -1.9763072851311123 %
+Mean of euclidean distance reduced by:  -5.735648039088998 %
+Distance Average efficiency: 1 Outlier =  -1.1471296078177997 %
+
+Removed outliers:  ['303_6_www.history.de', '303_10_www.history.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'303_6_www.history.de': 2527986.0, '303_10_www.history.de': 2638283.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  -9.766400189343475 %
+Variance Average efficiency: 1 Outlier =  -4.8832000946717375 %
+Mean of euclidean distance reduced by:  -7.3509320867693795 %
+Distance Average efficiency: 1 Outlier =  -3.6754660433846897 %
+
+Removed outliers:  ['306_3_www.sueddeutsche.de', '307_5_www.sueddeutsche.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'306_3_www.sueddeutsche.de': 4678323.0}, {'307_4_www.sueddeutsche.de': 2954204.0, '307_5_www.sueddeutsche.de': 6060279.0, '307_6_www.sueddeutsche.de': 6208065.0}, {'308_10_www.sueddeutsche.de': 5576316.0}]
+Number of outliers:  5
+Number of all features:  40
+Mean variance reduced by:  19.85161065946519 %
+Variance Average efficiency: 1 Outlier =  3.970322131893038 %
+Mean of euclidean distance reduced by:  10.98664814729902 %
+Distance Average efficiency: 1 Outlier =  2.197329629459804 %
+
+Removed outliers:  ['310_2_www.bild.de', '312_10_www.bild.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'310_2_www.bild.de': 4619215.0, '310_5_www.bild.de': 5110153.0}, {'311_2_www.bild.de': 2150492.0}, {'312_10_www.bild.de': 3829924.0}]
+Number of outliers:  4
+Number of all features:  40
+Mean variance reduced by:  53.03174363490378 %
+Variance Average efficiency: 1 Outlier =  13.257935908725946 %
+Mean of euclidean distance reduced by:  24.43775430818491 %
+Distance Average efficiency: 1 Outlier =  6.109438577046228 %
+
+Removed outliers:  ['314_4_www.chefkoch.de', '316_2_www.chefkoch.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'314_4_www.chefkoch.de': 3891485.0}, {'315_4_www.chefkoch.de': 7064579.0}, {'316_2_www.chefkoch.de': 6275123.0}]
+Number of outliers:  3
+Number of all features:  40
+Mean variance reduced by:  32.75978939151577 %
+Variance Average efficiency: 1 Outlier =  10.919929797171923 %
+Mean of euclidean distance reduced by:  13.803178199180547 %
+Distance Average efficiency: 1 Outlier =  4.601059399726849 %
+
+Removed outliers:  []
+Outliers based on IQR based on final CUMUL_SUM:
+[]
+Number of outliers:  0
+Number of all features:  40
+Mean variance reduced by:  0.0 %
+Variance Average efficiency: 1 Outlier =  0 %
+Mean of euclidean distance reduced by:  0.0 %
+Distance Average efficiency: 1 Outlier =  0 %
+
+Removed outliers:  []
+Outliers based on IQR based on final CUMUL_SUM:
+[]
+Number of outliers:  0
+Number of all features:  40
+Mean variance reduced by:  0.0 %
+Variance Average efficiency: 1 Outlier =  0 %
+Mean of euclidean distance reduced by:  0.0 %
+Distance Average efficiency: 1 Outlier =  0 %
+
+Removed outliers:  ['326_2_www.wetteronline.de', '326_7_www.wetteronline.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'326_2_www.wetteronline.de': 6755405.0, '326_7_www.wetteronline.de': 5546283.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  8.808265268678802 %
+Variance Average efficiency: 1 Outlier =  4.404132634339401 %
+Mean of euclidean distance reduced by:  4.331760939331938 %
+Distance Average efficiency: 1 Outlier =  2.165880469665969 %
+
+Removed outliers:  ['332_4_www.wetter.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'332_4_www.wetter.com': 16110212.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  9.364991033038581 %
+Variance Average efficiency: 1 Outlier =  9.364991033038581 %
+Mean of euclidean distance reduced by:  7.772869719875295 %
+Distance Average efficiency: 1 Outlier =  7.772869719875295 %
+
+Removed outliers:  ['336_2_prezi.com', '335_5_prezi.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'335_5_prezi.com': 2801013.0}, {'336_2_prezi.com': 7929823.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  -3.1105213953517956 %
+Variance Average efficiency: 1 Outlier =  -1.5552606976758978 %
+Mean of euclidean distance reduced by:  1.2528486710783455 %
+Distance Average efficiency: 1 Outlier =  0.6264243355391728 %
+
+Removed outliers:  ['341_3_www.mindmeister.com', '339_6_www.mindmeister.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'339_6_www.mindmeister.com': 3529504.0}, {'341_3_www.mindmeister.com': 3421060.0, '341_10_www.mindmeister.com': 3386931.0}]
+Number of outliers:  3
+Number of all features:  40
+Mean variance reduced by:  -5.568140652674529 %
+Variance Average efficiency: 1 Outlier =  -1.856046884224843 %
+Mean of euclidean distance reduced by:  -0.9429815142911536 %
+Distance Average efficiency: 1 Outlier =  -0.3143271714303845 %
+
+Removed outliers:  ['342_8_www.alternate.de', '343_10_www.alternate.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'342_8_www.alternate.de': 796.0}, {'343_10_www.alternate.de': 424.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  19.070751733991376 %
+Variance Average efficiency: 1 Outlier =  9.535375866995688 %
+Mean of euclidean distance reduced by:  12.172184307326555 %
+Distance Average efficiency: 1 Outlier =  6.0860921536632775 %
+
+Removed outliers:  []
+Outliers based on IQR based on final CUMUL_SUM:
+[]
+Number of outliers:  0
+Number of all features:  40
+Mean variance reduced by:  0.0 %
+Variance Average efficiency: 1 Outlier =  0 %
+Mean of euclidean distance reduced by:  0.0 %
+Distance Average efficiency: 1 Outlier =  0 %
+
+Removed outliers:  ['350_9_de.napster.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'350_9_de.napster.com': 3367974.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  4.256873360438074 %
+Variance Average efficiency: 1 Outlier =  4.256873360438074 %
+Mean of euclidean distance reduced by:  3.053229151874874 %
+Distance Average efficiency: 1 Outlier =  3.053229151874874 %
+
+Removed outliers:  ['355_6_www.deezer.com', '355_4_www.deezer.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'354_4_www.deezer.com': 1016841.0}, {'355_4_www.deezer.com': 2213914.0, '355_6_www.deezer.com': 2026330.0, '355_10_www.deezer.com': 1945614.0}]
+Number of outliers:  4
+Number of all features:  40
+Mean variance reduced by:  29.718387233911713 %
+Variance Average efficiency: 1 Outlier =  7.429596808477928 %
+Mean of euclidean distance reduced by:  12.8228196286064 %
+Distance Average efficiency: 1 Outlier =  3.2057049071516 %
+
+Removed outliers:  []
+Outliers based on IQR based on final CUMUL_SUM:
+[]
+Number of outliers:  0
+Number of all features:  40
+Mean variance reduced by:  0.0 %
+Variance Average efficiency: 1 Outlier =  0 %
+Mean of euclidean distance reduced by:  0.0 %
+Distance Average efficiency: 1 Outlier =  0 %
+
+Removed outliers:  ['365_6_soundcloud.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'365_6_soundcloud.com': 2019023.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  -2.9725464085490225 %
+Variance Average efficiency: 1 Outlier =  -2.9725464085490225 %
+Mean of euclidean distance reduced by:  -1.4022971579760861 %
+Distance Average efficiency: 1 Outlier =  -1.4022971579760861 %
+
+Removed outliers:  ['367_10_www.deutschlandradio.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'367_10_www.deutschlandradio.de': 698132.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  0.24988061875039091 %
+Variance Average efficiency: 1 Outlier =  0.24988061875039091 %
+Mean of euclidean distance reduced by:  1.1649554344318904 %
+Distance Average efficiency: 1 Outlier =  1.1649554344318904 %
+
+Removed outliers:  ['370_8_www.surfmusik.de', '371_7_www.surfmusik.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'370_8_www.surfmusik.de': 976253.0}, {'371_7_www.surfmusik.de': 3587132.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  44.94464096713813 %
+Variance Average efficiency: 1 Outlier =  22.472320483569064 %
+Mean of euclidean distance reduced by:  25.131184143842276 %
+Distance Average efficiency: 1 Outlier =  12.565592071921138 %
+
+Removed outliers:  ['377_6_www.kino.de', '374_6_www.kino.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'374_1_www.kino.de': 3226416.0, '374_6_www.kino.de': 3450967.0}, {'377_6_www.kino.de': 6976175.0, '377_9_www.kino.de': 5681984.0}]
+Number of outliers:  4
+Number of all features:  40
+Mean variance reduced by:  7.883064927044379 %
+Variance Average efficiency: 1 Outlier =  1.9707662317610948 %
+Mean of euclidean distance reduced by:  6.478061306177177 %
+Distance Average efficiency: 1 Outlier =  1.6195153265442943 %
+
+Removed outliers:  ['378_1_www.cinema.de', '381_7_www.cinema.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'378_1_www.cinema.de': 2246904.0, '378_10_www.cinema.de': 2164734.0}, {'380_5_www.cinema.de': 8799300.0, '380_10_www.cinema.de': 6089782.0}, {'381_1_www.cinema.de': 1876716.0, '381_7_www.cinema.de': 1813554.0}]
+Number of outliers:  6
+Number of all features:  40
+Mean variance reduced by:  -10.824738554232075 %
+Variance Average efficiency: 1 Outlier =  -1.8041230923720126 %
+Mean of euclidean distance reduced by:  -7.215069468875825 %
+Distance Average efficiency: 1 Outlier =  -1.2025115781459708 %
+
+Removed outliers:  ['385_4_www.imdb.com', '385_1_www.imdb.com']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'385_1_www.imdb.com': 2529762.0, '385_4_www.imdb.com': 2523916.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  -1.8726095848467814 %
+Variance Average efficiency: 1 Outlier =  -0.9363047924233907 %
+Mean of euclidean distance reduced by:  -0.08351230849236381 %
+Distance Average efficiency: 1 Outlier =  -0.041756154246181905 %
+
+Removed outliers:  ['386_4_www.netzkino.de', '389_1_www.netzkino.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'386_4_www.netzkino.de': 8000956.0}, {'387_5_www.netzkino.de': 22528862.0}, {'389_1_www.netzkino.de': 1426472.0}]
+Number of outliers:  3
+Number of all features:  40
+Mean variance reduced by:  -7.558314673650955 %
+Variance Average efficiency: 1 Outlier =  -2.5194382245503184 %
+Mean of euclidean distance reduced by:  -2.1532314049516015 %
+Distance Average efficiency: 1 Outlier =  -0.7177438016505339 %
+
+Removed outliers:  ['393_1_www.watchbox.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'393_1_www.watchbox.de': 1771115.0}]
+Number of outliers:  1
+Number of all features:  40
+Mean variance reduced by:  -4.960568480000188 %
+Variance Average efficiency: 1 Outlier =  -4.960568480000188 %
+Mean of euclidean distance reduced by:  -3.4730003623221166 %
+Distance Average efficiency: 1 Outlier =  -3.4730003623221166 %
+
+Removed outliers:  ['397_6_www.expedia.de', '397_1_www.expedia.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'397_1_www.expedia.de': 1571347.0, '397_6_www.expedia.de': 1938166.0}]
+Number of outliers:  2
+Number of all features:  40
+Mean variance reduced by:  19.906339042229988 %
+Variance Average efficiency: 1 Outlier =  9.953169521114994 %
+Mean of euclidean distance reduced by:  8.371139588551959 %
+Distance Average efficiency: 1 Outlier =  4.185569794275979 %
+
+Removed outliers:  ['401_1_www.opodo.de', '399_3_www.opodo.de']
+Outliers based on IQR based on final CUMUL_SUM:
+[{'399_3_www.opodo.de': 2116036.0, '399_9_www.opodo.de': 2130892.0}, {'400_10_www.opodo.de': 1804540.0}, {'401_1_www.opodo.de': 2293459.0, '401_2_www.opodo.de': 1947805.0}]
+Number of outliers:  5
+Number of all features:  40
+Mean variance reduced by:  -11.05406238536051 %
+Variance Average efficiency: 1 Outlier =  -2.210812477072102 %
+Mean of euclidean distance reduced by:  -9.217401481965435 %
+Distance Average efficiency: 1 Outlier =  -1.843480296393087 %
