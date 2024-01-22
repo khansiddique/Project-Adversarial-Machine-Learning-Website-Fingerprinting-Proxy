@@ -8,3 +8,7 @@ However, there's a potential risk to anonymity called "website fingerprinting." 
 
 ### Keywords
 Website fingerprinting, proxy server, crawling, capturing traffic, interpolation, normalization, outlier detection, IQR, Z-score, isolation forest, Support Vector Machine (SVM), k-nearest neighbor, random forest, neural network, cross validation, confusion matrix.
+
+Project is processed by following steps shown in Figure 1:
+![Main_Framework (1)](https://github.com/khansiddique/Project-Adversarial-Machine-Learning-Website-Fingerprinting-Proxy/assets/44813868/63c7e4e0-cfed-4ed5-8878-98b3f3d6bd80)
+Figure 1: Step by step flow diagram for project implementation
