@@ -6,5 +6,5 @@ In the world of computers, keeping information private and anonymous browsing ar
 
 However, there's a potential risk to anonymity called "website fingerprinting." This is when someone tries to figure out which site you visited by analyzing patterns in the data flow. They look at things like packet size, directions, timestamps, and loading time. To understand and defend against this, we collect data by capturing network traffic while browsing various web pages. We then use machine learning algorithms during training and testing to predict the likely website you visited through the proxy.
 
-###Keywords: 
+#### Keywords
 Website fingerprinting, proxy server, crawling, capturing traffic, interpolation, normalization, outlier detection, IQR, Z-score, isolation forest, Support Vector Machine (SVM), k-nearest neighbor, random forest, neural network, cross validation, confusion matrix.
